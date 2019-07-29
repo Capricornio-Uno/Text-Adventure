@@ -1,4 +1,4 @@
-# Scene of the guessing with the Sorcerer
+# Scene of the guessing with the Sorcerer 
 
 print()
 print('You arrive to the gate.')
